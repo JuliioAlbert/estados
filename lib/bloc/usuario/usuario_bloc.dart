@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:meta/meta.dart';
 import 'package:estados/models/usuario_model.dart';
 
 part 'usuario_state.dart';
